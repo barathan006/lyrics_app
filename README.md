@@ -1,6 +1,6 @@
 # lyrics_app
 
-A new Flutter project.
+Lyrics App build With Flutter
 
 ## Getting Started
 
